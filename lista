@@ -11,3 +11,7 @@ plugin://script.module.horus?action=play&id=acestream://aa82e7d4f03061f2144a2f4b
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="Liga" tvg-id="Laligatv", M+ LaLiga TV alt. 2 1080p
 plugin://script.module.horus?action=play&id=acestream://1969c27658d4c8333ab2c0670802546121a774a5
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="Liga" tvg-id="Laligatv", M+ LaLiga TV 720p
+plugin://script.module.horus?action=play&id=acestream://f031f5728b32f6089dda28edebe990cf198108d8
+
