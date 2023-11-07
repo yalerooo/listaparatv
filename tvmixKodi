@@ -1,4 +1,4 @@
-#EXTM3U Canales
+#EXTM3U
 
 #EXTINF:-1 tvg-id="LA 1" group-title="Movistar Plus+" ch-number="1" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE",LA 1
 #KODIPROP:inputstream=inputstream.adaptive
