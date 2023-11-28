@@ -83,7 +83,7 @@ plugin://script.module.horus?action=play&id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV3 Hypermotion
 plugin://script.module.horus?action=play&id=59ba45b79152e4599144177b234f6491fc19db53
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones 1080p
-plugin://script.module.horus?action=play&id=1d79a7543d691666135669f89f3541f54e2dd0a9
+plugin://script.module.horus?action=play&id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones alt. 1080p
 plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones alt2. 1080p
