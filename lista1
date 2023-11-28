@@ -88,6 +88,8 @@ acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones alt2. 1080p
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones alt2. 1080p
+acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones 720p
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HLMBJ1tv/ligacamp2.png" group-title="Liga" tvg-id="M+ Liga de Campeones 2", M+ Liga de Campeones 2 1080p
@@ -99,13 +101,13 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXMvLQC9/ligacamp3.png" group-title="Liga" tvg-id="M+ Liga de Campeones 3", M+ Liga de Campeones 3 720p
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Twq09jFr/ligacamp4.png" group-title="Liga" tvg-id="M+ Liga de Campeones 4", M+ Liga de Campeones 4
-acestream://1a1b528109edead1904e3dbff575637a452dd1fa
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCxm5gGP/ligacamp5.png" group-title="Liga" tvg-id="M+ Liga de Campeones 5", M+ Liga de Campeones 5
-acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
+acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2y0wpkzy/ligacamp6.png" group-title="Liga" tvg-id="M+ Liga de Campeones 6", M+ Liga de Campeones 6
-acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
+acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8hXxzWy/ligacamp7.png" group-title="Liga" tvg-id="M+ Liga de Campeones 7", M+ Liga de Campeones 7
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kX5sQbcb/ligacamp8.png" group-title="Liga" tvg-id="M+ Liga de Campeones 8", M+ Liga de Campeones 8
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones 9", M+ Liga de Campeones 9
