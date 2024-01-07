@@ -29,7 +29,7 @@ plugin://script.module.horus?action=play&id=d6cdd724a97fcf851e7ef641c28d6beb8663
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="Deportes" tvg-id="M+ Deportes", M+ Deportes 1080p
 plugin://script.module.horus?action=play&id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" group-title="Deportes" tvg-id="M+ Deportes", M+ Deportes 720p
-plugin://script.module.horus?action=play&id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+plugin://script.module.horus?action=play&id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" group-title="Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" group-title="Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
