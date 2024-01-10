@@ -74,8 +74,6 @@ plugin://script.module.horus?action=play&id=93d663e92a93845b11c9831885646fa39ba1
 plugin://script.module.horus?action=play&id=0950c37fe1ea817fc561c611ae943d58505f7a79
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV Hypermotion 1080p
 plugin://script.module.horus?action=play&id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV Hypermotion 720p
-plugin://script.module.horus?action=play&id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV2 Hypermotion TV2 1080p
 plugin://script.module.horus?action=play&id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV2 Hypermotion TV2 720p
