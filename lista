@@ -118,3 +118,7 @@ plugin://script.module.horus?action=play&id=df67afe5c5f5e82a3ae629d126727b006b65
 plugin://script.module.horus?action=play&id=57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones 12", M+ Liga de Campeones 12
 plugin://script.module.horus?action=play&id=33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLhjG7w9/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Supercopa" tvg-id="SuperCopa", SuperCopa 1080
+plugin://script.module.horus?action=play&id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYgs25G/movistar-plus-logo.jpg" group-title="Movistar plus+" tvg-id="Movistar plus+", Movistar plus+
+plugin://script.module.horus?action=play&id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
