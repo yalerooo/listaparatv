@@ -134,6 +134,8 @@ acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYgs25G/movistar-plus-logo.jpg" group-title="Movistar plus+" tvg-id="Movistar plus+", Movistar plus+
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYgs25G/movistar-plus-logo.jpg" group-title="Movistar plus+" tvg-id="Movistar plus+", Movistar plus+ alt
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" group-title="EuroSport 1" tvg-id="EuroSport 1", EuroSport 1 4K
 acestream://c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" group-title="EuroSport 1" tvg-id="EuroSport 1", EuroSport 1
