@@ -82,8 +82,12 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV Hypermotion 1080p
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV Hypermotion 1080p alt
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV2 Hypermotion TV2 1080p
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV2 Hypermotion TV2 1080p alt
+acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV2 Hypermotion TV2 720p
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" group-title="Liga" tvg-id="LALIGA TV HYPERMOTION", M+ LaLiga TV3 Hypermotion
@@ -155,3 +159,20 @@ acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
 acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 tvg-logo="https://i.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Copa" tvg-id="Copa", Copa 720p
 acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="RFEF" tvg-id="RFEF", RFEF
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/real-federacion-espanola-de-futbol-logo-E20F3AA1CF-seeklogo.com.png" group-title="RFEF" tvg-id="RFEF", RFEF alt
+acestream://8677d339ecddd75165c0015025f598b6215974cf 
+
+#EXTINF:-1 tvg-logo="https://i.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Evento" tvg-id="Evento", Evento 1
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+
+#EXTINF:-1 tvg-logo="https://i.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Evento" tvg-id="Evento", Evento 2
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+
+#EXTINF:-1 tvg-logo="https://i.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Evento" tvg-id="Evento", Evento 3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+
+#EXTINF:-1 tvg-logo="https://i.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Evento" tvg-id="Evento", Evento 4
+acestream://e454681a152a86da504e63694f17f90d0586867d
