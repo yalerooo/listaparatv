@@ -141,13 +141,13 @@ http://127.0.0.1:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXVGs72y/ligacamp.png" group-title="Liga" tvg-id="M+ Liga de Campeones 12", M+ Liga de Campeones 12
 http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLhjG7w9/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Supercopa" tvg-id="SuperCopa", SuperCopa 1080p
-http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLhjG7w9/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Supercopa" tvg-id="SuperCopa", SuperCopa 1080p plus
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLhjG7w9/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Supercopa" tvg-id="SuperCopa", SuperCopa 1080p MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+http://127.0.0.1:6878/ace/getstream?id=756319cab8d0b6afdffb48bd5343004a73e73ed3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLhjG7w9/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Supercopa" tvg-id="SuperCopa", SuperCopa 1080p opcion 2
-http://127.0.0.1:6878/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
+http://127.0.0.1:6878/ace/getstream?id=f8e9bde8d90c21401b657181250bb1e49320b928
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLhjG7w9/3e6beab90872d12c17ceb282eb07de96.jpg" group-title="Supercopa" tvg-id="SuperCopa", SuperCopa 720p
 http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYgs25G/movistar-plus-logo.jpg" group-title="Movistar plus+" tvg-id="Movistar plus+", Movistar plus+
