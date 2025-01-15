@@ -153,9 +153,13 @@ http://127.0.0.1:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYgs25G/movistar-plus-logo.jpg" group-title="Movistar plus+" tvg-id="Movistar plus+", Movistar plus+
 http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mkYgs25G/movistar-plus-logo.jpg" group-title="Movistar plus+" tvg-id="Movistar plus+", Movistar plus+ alt
-http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=cfd3da&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flaligatvbar.png" group-title="Tv Bar" tvg-id="Tv Bar", Tv Bar
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="https://wiki2023.mundoplus.tv/lib/exe/fetch.php?w=144&h=108&tok=cfd3da&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Flaligatvbar.png" group-title="Tv Bar" tvg-id="Tv Bar", Tv Bar
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" group-title="EuroSport 1" tvg-id="EuroSport 1", EuroSport 1 4K
-http://127.0.0.1:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" group-title="EuroSport 1" tvg-id="EuroSport 1", EuroSport 1
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/473/D48A2107C19288B28A5A65D4232FCF16/eurosport_2.png" group-title="EuroSport 2" tvg-id="EuroSport 2", EuroSport 2
@@ -188,4 +192,3 @@ http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 
 #EXTINF:-1 tvg-logo="https://i.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Evento" tvg-id="Evento", Evento 4
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
-
