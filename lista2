@@ -225,7 +225,7 @@ http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="DAZN LaLiga 1080 MultiAudio", DAZN LaLiga 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="DAZN LaLiga 2 1080 MultiAudio", DAZN LaLiga 2 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
+http://127.0.0.1:6878/ace/getstream?id=fb51ef5294e99767811a3fa95a1933fb864e9ff3
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="DAZN LaLiga 2 720 MultiAudio", DAZN LaLiga 2 720 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="DAZN LaLiga 3 1080 MultiAudio", DAZN LaLiga 3 1080 MultiAudio
