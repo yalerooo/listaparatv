@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 tvg-logo="" group-title="Champions" tvg-id="M", M LIGA DE CAMPEONES FHD
-http://127.0.0.1:6878/ace/getstream?id=ac73acd09d79c46cb818bfd945f20198d1718a85
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="" group-title="Champions" tvg-id="M", M LIGA DE CAMPEONES FHD
-http://127.0.0.1:6878/ace/getstream?id=ba87f528de030aad56576f7cbb9d8bbd7efd62b9
+http://127.0.0.1:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-logo="" group-title="Champions" tvg-id="M", M LIGA DE CAMPEONES FHD
-http://127.0.0.1:6878/ace/getstream?id=ec6ce96a4e4eb523108418a84babc9eca4b4c507
+http://127.0.0.1:6878/ace/getstream?id=0f0850a62ecdc4f79eec221cbebad01f3e0242bc
 #EXTINF:-1 tvg-logo="" group-title="Champions" tvg-id="M", M LIGA DE CAMPEONES FHD
-http://127.0.0.1:6878/ace/getstream?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
+http://127.0.0.1:6878/ace/getstream?id=0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 tvg-logo="" group-title="Champions" tvg-id="M", M LIGA DE CAMPEONES FHD
 http://127.0.0.1:6878/ace/getstream?id=05057e832dd1530c7d5e8b0857fee6826243a243
 #EXTINF:-1 tvg-logo="" group-title="Champions" tvg-id="M", M LIGA DE CAMPEONES FHD
