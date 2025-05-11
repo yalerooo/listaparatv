@@ -258,7 +258,7 @@ http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="M LaLiga 720", M+ LaLiga 720
 http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="M LaLiga UHD", M+ LaLiga UHD
-http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="M SuperCopa 1080", M+ SuperCopa 1080
 http://127.0.0.1:6878/ace/getstream?id=f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="M SuperCopa 720", M+ SuperCopa 720
