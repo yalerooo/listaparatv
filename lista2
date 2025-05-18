@@ -276,10 +276,12 @@ http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="RFEF", RFEF
 http://127.0.0.1:6878/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="Vamos 1080", Vamos 1080
-http://127.0.0.1:6878/ace/getstream?id=c6b52ffb3b84836d334569204797d88bf15d48fa
-#EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="Vamos 720", Vamos FHD Sat
-http://127.0.0.1:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77
+http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933a
+#EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="Vamos 720", Vamos FHD 
+http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="Vamos 720", Vamos FHD
-http://127.0.0.1:6878/ace/getstream?id=6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d 
+http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a 
+#EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="Vamos 720", Vamos FHD
+http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
 #EXTINF:-1 tvg-logo="" group-title="LaLiga" tvg-id="beIN SPORTS XTRA", beIN SPORTS XTRA
 http://127.0.0.1:6878/ace/getstream?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5
