@@ -1,38 +1,90 @@
 [
   {
-    "name": "Movistar Deportes",
-    "logo": "https://example.com/logos/movistar-deportes.png"
-  },
-  {
-    "name": "Movistar LaLiga",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png"
-  },
-  {
     "name": "Movistar Liga de Campeones",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png"
-  },
-  {
-    "name": "DAZN LaLiga",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png"
   },
   {
     "name": "DAZN 1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg"
   },
   {
-    "name": "M+ Vamos",
-    "logo": "https://example.com/logos/m-plus-vamos.jpg"
+    "name": "Movistar Deportes",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png"
   },
   {
-    "name": "LaLiga Hypermotion TV",
-    "logo": "https://example.com/logos/laliga-hypermotion-tv.png"
+    "name": "Deportes 7",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png"
+  },
+  {
+    "name": "Barça TV",
+    "logo": "https://yt3.googleusercontent.com/GFF3F6iJnqMux23XVK1CmVaKDz1OLwVyE1HjHz9YB6Ueup806ZnXKW0CsTeXpMsisTbyaVUwWCs=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "BeMad",
+    "logo": "https://www.ecured.cu/images/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg"
+  },
+  {
+    "name": "Cuatro",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7M5NErJkcuT2_6aSHYMKYQ9jm_IwAGBCcw&s"
+  },
+  {
+    "name": "Ellas",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png"
   },
   {
     "name": "Eurosport 1",
-    "logo": "https://example.com/logos/eurosport-1.jpg"
+    "logo": "https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png"
   },
   {
-    "name": "Eurosport 2",
-    "logo": "https://example.com/logos/eurosport-2.png"
+    "name": "La 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_La_2.svg/1200px-Logo_La_2.svg.png"
   },
+  {
+    "name": "La 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg"
+  },
+  {
+    "name": "LaLiga TV Bar",
+    "logo": "https://r2.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"
+  },
+  {
+    "name": "Movistar Golf",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png"
+  },
+  {
+    "name": "DAZN F1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png"
+  },
+  {
+    "name": "DAZN LaLiga",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png"
+  },
+  {
+    "name": "GOL TV",
+    "logo": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg"
+  },
+  {
+    "name": "LaLiga Hypermotion TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png"
+  },
+  {
+    "name": "Movistar LaLiga",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png"
+  },
+  {
+    "name": "Movistar Plus",
+    "logo": "https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "RFEF",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/1200px-Royal_Spanish_Football_Federation_logo.svg.png"
+  },
+  {
+    "name": "Movistar Vamos",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png"
+  },
+  {
+    "name": "PPVP",
+    "logo": "https://img.freepik.com/vector-premium/diseno-logotipo-personas-corriendo-logotipo-persona-corriendo-logotipo-deportes_219523-127.jpg"
+  }
 ]
