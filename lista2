@@ -17,6 +17,16 @@ http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="M+Plus 1080", M+Plus 1080
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="M+Plus 1080", M+Plus 1080 alt 1
+http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
+#EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="M+Plus 1080", M+Plus 1080 alt 2
+http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
+#EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="M+Plus 1080", M+Plus 1080 alt 3
+http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
+#EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="M+Plus 1080", M+Plus 1080 alt 4
+http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+#EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="M+Plus 1080", M+Plus 1080 alt 5
+http://127.0.0.1:6878/ace/getstream?id=e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 #EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="Vamos 1080", Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-logo="" group-title="Movistar" tvg-id="Vamos 720", Vamos 720
