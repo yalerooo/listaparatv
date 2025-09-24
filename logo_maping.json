@@ -1,5 +1,77 @@
 [
   {
+    "pattern": "movistar.*\\+.*accion",
+    "flags": "i",
+    "base": "Movistar Acción",
+    "description": "Movistar + ACCIÓN (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*cine.*espanol",
+    "flags": "i",
+    "base": "Movistar Cine Español",
+    "description": "Movistar + CINE ESPAÑOL (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*comedia",
+    "flags": "i",
+    "base": "Movistar Comedia",
+    "description": "Movistar + COMEDIA (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*clasicos",
+    "flags": "i",
+    "base": "Movistar Clásicos",
+    "description": "Movistar + CLÁSICOS (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*documentales",
+    "flags": "i",
+    "base": "Movistar Documentales",
+    "description": "Movistar + DOCUMENTALES (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*drama",
+    "flags": "i",
+    "base": "Movistar Drama",
+    "description": "Movistar + DRAMA (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*estrenos",
+    "flags": "i",
+    "base": "Movistar Estrenos",
+    "description": "Movistar + ESTRENOS (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*hits",
+    "flags": "i",
+    "base": "Movistar Hits",
+    "description": "Movistar + HITS (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*indie",
+    "flags": "i",
+    "base": "Movistar Indie",
+    "description": "Movistar + INDIE (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*originales",
+    "flags": "i",
+    "base": "Movistar Originales",
+    "description": "Movistar + ORIGINALES (todas las variantes)"
+  },
+  {
+    "pattern": "movistar.*\\+.*comic",
+    "flags": "i",
+    "base": "Movistar Comic",
+    "description": "Movistar + COMIC (todas las variantes)"
+  },
+  {
+    "pattern": "1.*federaci[oó]n",
+    "flags": "i",
+    "base": "RFEF",
+    "description": "1ª FEDERACIÓN enlazado con RFEF"
+  },
+  {
     "pattern": "(campeones|champions|liga.*campeones)",
     "flags": "i",
     "base": "Movistar Liga de Campeones",
@@ -132,12 +204,6 @@
     "description": "RFEF"
   },
   {
-    "pattern": "1ª.*federacion|1.*federacion|primera.*federacion",
-    "flags": "i",
-    "base": "RFEF",
-    "description": "1ª FEDERACIÓN enlazado con RFEF"
-  },
-  {
     "pattern": "ppvp",
     "flags": "i",
     "base": "PPVP",
@@ -202,72 +268,6 @@
     "flags": "i",
     "base": "Discovery Channel",
     "description": "Discovery Channel"
-  },
-  {
-    "pattern": "movistar.*accion",
-    "flags": "i",
-    "base": "Movistar Acción",
-    "description": "Movistar Acción"
-  },
-  {
-    "pattern": "movistar.*cine.*espanol",
-    "flags": "i",
-    "base": "Movistar Cine Español",
-    "description": "Movistar Cine Español"
-  },
-  {
-    "pattern": "movistar.*comedia",
-    "flags": "i",
-    "base": "Movistar Comedia",
-    "description": "Movistar Comedia"
-  },
-  {
-    "pattern": "movistar.*clasicos",
-    "flags": "i",
-    "base": "Movistar Clásicos",
-    "description": "Movistar Clásicos"
-  },
-  {
-    "pattern": "movistar.*documentales",
-    "flags": "i",
-    "base": "Movistar Documentales",
-    "description": "Movistar Documentales"
-  },
-  {
-    "pattern": "movistar.*drama",
-    "flags": "i",
-    "base": "Movistar Drama",
-    "description": "Movistar Drama"
-  },
-  {
-    "pattern": "movistar.*estrenos",
-    "flags": "i",
-    "base": "Movistar Estrenos",
-    "description": "Movistar Estrenos"
-  },
-  {
-    "pattern": "movistar.*hits",
-    "flags": "i",
-    "base": "Movistar Hits",
-    "description": "Movistar Hits"
-  },
-  {
-    "pattern": "movistar.*indie",
-    "flags": "i",
-    "base": "Movistar Indie",
-    "description": "Movistar Indie"
-  },
-  {
-    "pattern": "movistar.*originales",
-    "flags": "i",
-    "base": "Movistar Originales",
-    "description": "Movistar Originales"
-  },
-  {
-    "pattern": "movistar.*comic",
-    "flags": "i",
-    "base": "Movistar Comic",
-    "description": "Movistar Comic"
   },
   {
     "pattern": "orange.*tv",
@@ -370,71 +370,5 @@
     "flags": "i",
     "base": "Motorvisión",
     "description": "Motorvisión"
-  },
-  {
-    "pattern": "movistar.*\\+.*accion",
-    "flags": "i",
-    "base": "Movistar Acción",
-    "description": "Movistar + ACCIÓN (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*cine.*espanol",
-    "flags": "i",
-    "base": "Movistar Cine Español",
-    "description": "Movistar + CINE ESPAÑOL (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*comedia",
-    "flags": "i",
-    "base": "Movistar Comedia",
-    "description": "Movistar + COMEDIA (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*clasicos",
-    "flags": "i",
-    "base": "Movistar Clásicos",
-    "description": "Movistar + CLÁSICOS (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*documentales",
-    "flags": "i",
-    "base": "Movistar Documentales",
-    "description": "Movistar + DOCUMENTALES (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*drama",
-    "flags": "i",
-    "base": "Movistar Drama",
-    "description": "Movistar + DRAMA (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*estrenos",
-    "flags": "i",
-    "base": "Movistar Estrenos",
-    "description": "Movistar + ESTRENOS (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*hits",
-    "flags": "i",
-    "base": "Movistar Hits",
-    "description": "Movistar + HITS (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*indie",
-    "flags": "i",
-    "base": "Movistar Indie",
-    "description": "Movistar + INDIE (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*originales",
-    "flags": "i",
-    "base": "Movistar Originales",
-    "description": "Movistar + ORIGINALES (todas las variantes)"
-  },
-  {
-    "pattern": "movistar.*\\+.*comic",
-    "flags": "i",
-    "base": "Movistar Comic",
-    "description": "Movistar + COMIC (todas las variantes)"
   }
 ]
