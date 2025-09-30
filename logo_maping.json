@@ -3,372 +3,434 @@
     "pattern": "movistar.*\\+.*accion",
     "flags": "i",
     "base": "Movistar Acción",
+    "tvg-id": "Accion por M+.es",
     "description": "Movistar + ACCIÓN (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*cine.*espanol",
     "flags": "i",
     "base": "Movistar Cine Español",
+    "tvg-id": "Cine Español por M+.es",
     "description": "Movistar + CINE ESPAÑOL (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*comedia",
     "flags": "i",
     "base": "Movistar Comedia",
+    "tvg-id": "Comedia por M+.es",
     "description": "Movistar + COMEDIA (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*clasicos",
     "flags": "i",
     "base": "Movistar Clásicos",
+    "tvg-id": "",
     "description": "Movistar + CLÁSICOS (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*documentales",
     "flags": "i",
     "base": "Movistar Documentales",
+    "tvg-id": "",
     "description": "Movistar + DOCUMENTALES (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*drama",
     "flags": "i",
     "base": "Movistar Drama",
+    "tvg-id": "Drama por M+.es",
     "description": "Movistar + DRAMA (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*estrenos",
     "flags": "i",
     "base": "Movistar Estrenos",
+    "tvg-id": "",
     "description": "Movistar + ESTRENOS (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*hits",
     "flags": "i",
     "base": "Movistar Hits",
+    "tvg-id": "",
     "description": "Movistar + HITS (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*indie",
     "flags": "i",
     "base": "Movistar Indie",
+    "tvg-id": "",
     "description": "Movistar + INDIE (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*originales",
     "flags": "i",
     "base": "Movistar Originales",
+    "tvg-id": "Originales por M+.es",
     "description": "Movistar + ORIGINALES (todas las variantes)"
   },
   {
     "pattern": "movistar.*\\+.*comic",
     "flags": "i",
     "base": "Movistar Comic",
+    "tvg-id": "",
     "description": "Movistar + COMIC (todas las variantes)"
   },
   {
     "pattern": "1.*federaci[oó]n",
     "flags": "i",
     "base": "RFEF",
+    "tvg-id": "",
     "description": "1ª FEDERACIÓN enlazado con RFEF"
   },
   {
     "pattern": "(campeones|champions|liga.*campeones)",
     "flags": "i",
     "base": "Movistar Liga de Campeones",
+    "tvg-id": "Movistar Liga de Campeones.es",
     "description": "Movistar Liga de Campeones (todas las variantes)"
   },
   {
     "pattern": "dazn.*f1",
     "flags": "i",
     "base": "DAZN F1",
+    "tvg-id": "DAZN F1.es",
     "description": "DAZN F1 (todas las variantes)"
   },
   {
     "pattern": "\\bf1\\b",
     "flags": "i",
     "base": "DAZN F1",
+    "tvg-id": "DAZN F1.es",
     "description": "F1 genérico"
   },
   {
     "pattern": "dazn.*liga",
     "flags": "i",
     "base": "DAZN LaLiga",
+    "tvg-id": "DAZN LALIGA.es",
     "description": "DAZN LaLiga (todas las variantes)"
   },
   {
     "pattern": "^dazn\\s*\\d*$",
     "flags": "i",
     "base": "DAZN 1",
+    "tvg-id": "DAZN1.es",
     "description": "DAZN genérico (DAZN 1, DAZN 2, etc.)"
   },
   {
     "pattern": "(deportes|deporte)",
     "flags": "i",
     "base": "Movistar Deportes",
+    "tvg-id": "Movistar Deportes 1.es",
     "description": "Movistar Deportes (todas las variantes)"
   },
   {
     "pattern": "vamos",
     "flags": "i",
     "base": "Movistar Vamos",
+    "tvg-id": "#Vamos.es",
     "description": "Movistar Vamos (todas las variantes)"
   },
   {
     "pattern": "(m\\.?\\s*liga|movistar.*liga)",
     "flags": "i",
     "base": "Movistar LaLiga",
+    "tvg-id": "M+ LALIGA TV.es",
     "description": "Movistar LaLiga (todas las variantes M Liga)"
   },
   {
     "pattern": "(m\\.?\\s*golf|movistar.*golf)",
     "flags": "i",
     "base": "Movistar Golf",
+    "tvg-id": "Movistar Golf.es",
     "description": "Movistar Golf (todas las variantes)"
   },
   {
     "pattern": "(m\\+?plus|movistar.*plus|movistar\\s*\\+)",
     "flags": "i",
     "base": "Movistar Plus",
+    "tvg-id": "Movistar Plus+.es",
     "description": "Movistar Plus genérico"
   },
   {
     "pattern": "movistar\\s*\\+\\s*\\d+",
     "flags": "i",
     "base": "Movistar Plus",
+    "tvg-id": "Movistar Plus+.es",
     "description": "Movistar + con números (1080, 2, etc.)"
   },
   {
     "pattern": "eurosport",
     "flags": "i",
     "base": "Eurosport 1",
+    "tvg-id": "Eurosport 1.es",
     "description": "Eurosport (todas las variantes)"
   },
   {
     "pattern": "(smartbank|hypermotion)",
     "flags": "i",
     "base": "LaLiga Hypermotion TV",
+    "tvg-id": "",
     "description": "LaLiga Hypermotion (todas las variantes)"
   },
   {
     "pattern": "laliga.*tv.*bar",
     "flags": "i",
     "base": "LaLiga TV Bar",
+    "tvg-id": "LALIGA TV BAR.es",
     "description": "LaLiga TV Bar (todas las variantes)"
   },
   {
     "pattern": "gol.*tv",
     "flags": "i",
     "base": "GOL TV",
+    "tvg-id": "GOL PLAY.es",
     "description": "GOL TV"
   },
   {
     "pattern": "^la\\s*1",
     "flags": "i",
     "base": "La 1",
+    "tvg-id": "La 1.es",
     "description": "La 1 TVE"
   },
   {
     "pattern": "^la\\s*2",
     "flags": "i",
     "base": "La 2",
+    "tvg-id": "La 2.es",
     "description": "La 2 TVE"
   },
   {
     "pattern": "cuatro",
     "flags": "i",
     "base": "Cuatro",
+    "tvg-id": "Cuatro.es",
     "description": "Cuatro"
   },
   {
     "pattern": "bemad",
     "flags": "i",
     "base": "BeMad",
+    "tvg-id": "Be Mad.es",
     "description": "BeMad"
   },
   {
     "pattern": "barca",
     "flags": "i",
     "base": "Barça TV",
+    "tvg-id": "",
     "description": "Barça TV"
   },
   {
     "pattern": "ellas",
     "flags": "i",
     "base": "Ellas",
+    "tvg-id": "",
     "description": "Ellas"
   },
   {
     "pattern": "rfef",
     "flags": "i",
     "base": "RFEF",
+    "tvg-id": "",
     "description": "RFEF"
   },
   {
     "pattern": "ppvp",
     "flags": "i",
     "base": "PPVP",
+    "tvg-id": "",
     "description": "PPVP (Pay Per View)"
   },
   {
     "pattern": "telecinco",
     "flags": "i",
     "base": "Telecinco",
+    "tvg-id": "Telecinco.es",
     "description": "Telecinco"
   },
   {
     "pattern": "^antena\\s*3",
     "flags": "i",
     "base": "Antena 3",
+    "tvg-id": "Antena 3.es",
     "description": "Antena 3"
   },
   {
     "pattern": "^la\\s*sexta",
     "flags": "i",
     "base": "La Sexta",
+    "tvg-id": "laSexta.es",
     "description": "La Sexta"
   },
   {
     "pattern": "real.*madrid.*tv",
     "flags": "i",
     "base": "Real Madrid TV",
+    "tvg-id": "Real Madrid TV.es",
     "description": "Real Madrid TV"
   },
   {
     "pattern": "golplay",
     "flags": "i",
     "base": "GOL TV",
+    "tvg-id": "GOL PLAY.es",
     "description": "GolPlay enlazado con GOL TV"
   },
   {
     "pattern": "esports.*3",
     "flags": "i",
     "base": "Esport3",
+    "tvg-id": "Esport 3.es",
     "description": "Esport3"
   },
   {
     "pattern": "canal.*cocina",
     "flags": "i",
     "base": "Canal Cocina",
+    "tvg-id": "Canal Cocina.es",
     "description": "Canal Cocina"
   },
   {
     "pattern": "aragon.*tv",
     "flags": "i",
     "base": "Aragón TV",
+    "tvg-id": "Aragon Television.es",
     "description": "Aragón TV"
   },
   {
     "pattern": "onetoro",
     "flags": "i",
     "base": "OneToro",
+    "tvg-id": "",
     "description": "OneToro"
   },
   {
     "pattern": "discovery.*channel",
     "flags": "i",
     "base": "Discovery Channel",
+    "tvg-id": "Discovery Channel.es",
     "description": "Discovery Channel"
   },
   {
     "pattern": "orange.*tv",
     "flags": "i",
     "base": "Orange TV",
+    "tvg-id": "",
     "description": "Orange TV"
   },
   {
     "pattern": "tennis.*channel",
     "flags": "i",
     "base": "Tennis Channel",
+    "tvg-id": "",
     "description": "Tennis Channel"
   },
   {
     "pattern": "tnt.*sports",
     "flags": "i",
     "base": "TNT Sports",
+    "tvg-id": "",
     "description": "TNT Sports"
   },
   {
     "pattern": "espn",
     "flags": "i",
     "base": "ESPN",
+    "tvg-id": "",
     "description": "ESPN"
   },
   {
     "pattern": "rally.*tv",
     "flags": "i",
     "base": "Rally TV",
+    "tvg-id": "",
     "description": "Rally TV"
   },
   {
     "pattern": "bein.*sports",
     "flags": "i",
     "base": "beIN Sports",
+    "tvg-id": "",
     "description": "beIN Sports"
   },
   {
     "pattern": "bt.*sport",
     "flags": "i",
     "base": "BT Sport",
+    "tvg-id": "",
     "description": "BT Sport"
   },
   {
     "pattern": "ziggo.*sport",
     "flags": "i",
     "base": "Ziggo Sport",
+    "tvg-id": "",
     "description": "Ziggo Sport"
   },
   {
     "pattern": "fox.*sports",
     "flags": "i",
     "base": "Fox Sports",
+    "tvg-id": "",
     "description": "Fox Sports"
   },
   {
     "pattern": "nba.*tv",
     "flags": "i",
     "base": "NBA TV",
+    "tvg-id": "",
     "description": "NBA TV"
   },
   {
     "pattern": "ufc.*fight.*pass",
     "flags": "i",
     "base": "UFC Fight Pass",
+    "tvg-id": "",
     "description": "UFC Fight Pass"
   },
   {
     "pattern": "sky.*sports",
     "flags": "i",
     "base": "Sky Sports",
+    "tvg-id": "",
     "description": "Sky Sports"
   },
   {
     "pattern": "sport.*tv",
     "flags": "i",
     "base": "Sport TV",
+    "tvg-id": "",
     "description": "Sport TV"
   },
   {
     "pattern": "teledeporte",
     "flags": "i",
     "base": "Teledeporte",
+    "tvg-id": "Teledeporte.es",
     "description": "Teledeporte"
   },
   {
     "pattern": "motors.*tv",
     "flags": "i",
     "base": "Motors TV",
+    "tvg-id": "",
     "description": "Motors TV"
   },
   {
     "pattern": "canal.*motor",
     "flags": "i",
     "base": "Canal Motor",
+    "tvg-id": "",
     "description": "Canal Motor"
   },
   {
     "pattern": "motorvision",
     "flags": "i",
     "base": "Motorvisión",
+    "tvg-id": "",
     "description": "Motorvisión"
   }
 ]
