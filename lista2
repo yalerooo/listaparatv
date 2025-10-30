@@ -48,7 +48,15 @@ http://127.0.0.1:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 3 1080", M. Liga 3 1080
 http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 3 1080", M. Liga 3 1080 alt 2
+http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 3 1080", M. Liga 3 720
 http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 3 1080", M. Liga 4 1080
+http://127.0.0.1:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602
+#EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 3 1080", M. Liga 4 1080 alt 2
+http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
+#EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 3 1080", M. Liga 4 720
+http://127.0.0.1:6878/ace/getstream?id=1bcee22d5476f2eae9dc2cb24e3685152cf285cb
 #EXTINF:-1 tvg-logo="" group-title="Liga" tvg-id="M. Liga 720", M. Liga 720
 http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
