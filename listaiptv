@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/spain2.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/spain1.xml"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080 MultiAudio
 http://192.168.4.105:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080 MultiAudio alt 2
@@ -15,13 +15,13 @@ http://192.168.4.105:6878/ace/getstream?id=a725595391ccbd9cb42dfadbef3890384bd11
 http://192.168.4.105:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080 MultiAudio alt 8
 http://192.168.4.105:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 2 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 1080 MultiAudio
 http://192.168.4.105:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 2 1080 MultiAudio alt 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 1080 MultiAudio alt 2
 http://192.168.4.105:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 2 1080 MultiAudio alt 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 1080 MultiAudio alt 3
 http://192.168.4.105:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 2 1080 MultiAudio alt 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 1080 MultiAudio alt 4
 http://192.168.4.105:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 4 1080
 http://192.168.4.105:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
@@ -64,17 +64,17 @@ http://192.168.4.105:6878/ace/getstream?id=1bcee22d5476f2eae9dc2cb24e3685152cf28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 720
 http://192.168.4.105:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="#Vamos.es",# VAMOS 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",# VAMOS 1080
 http://192.168.4.105:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Ellas_Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="#ELLAS 1080",#ELLAS 1080
 http://192.168.4.105:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="#Vamos.es",#VAMOS 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 1080
 http://192.168.4.105:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="#Vamos.es",#VAMOS 1080 alt 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 1080 alt 2
 http://192.168.4.105:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="#Vamos.es",#VAMOS 1080 alt 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 1080 alt 3
 http://192.168.4.105:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="#Vamos.es",#VAMOS 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 720
 http://192.168.4.105:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="Smartbank 1080",Smartbank 1080
@@ -94,55 +94,55 @@ http://192.168.4.105:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f0576284
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="Smartbank 720",Smartbank 720
 http://192.168.4.105:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080
 http://192.168.4.105:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 2
 http://192.168.4.105:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 3
 http://192.168.4.105:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 4
 http://192.168.4.105:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 5
 http://192.168.4.105:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 6
 http://192.168.4.105:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 7
 http://192.168.4.105:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 8
 http://192.168.4.105:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 9
 http://192.168.4.105:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 10
 http://192.168.4.105:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 11
 http://192.168.4.105:6878/ace/getstream?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 12
 http://192.168.4.105:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 13
 http://192.168.4.105:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 14
 http://192.168.4.105:6878/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 1080 alt 15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 15
 http://192.168.4.105:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 2 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 1080
 http://192.168.4.105:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 2 1080 alt 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 1080 alt 2
 http://192.168.4.105:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 2 1080 alt 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 1080 alt 3
 http://192.168.4.105:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 3 1080
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 1080
 http://192.168.4.105:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 3 1080 alt 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 1080 alt 2
 http://192.168.4.105:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 3 1080 alt 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 1080 alt 3
 http://192.168.4.105:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 4K
 http://192.168.4.105:6878/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 4K alt 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 4K alt 2
 http://192.168.4.105:6878/ace/getstream?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 4K alt 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 4K alt 3
 http://192.168.4.105:6878/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="Movistar Liga de Campeones.es",CAMPEONES 720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 720
 http://192.168.4.105:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN1.es",Dazn 1
