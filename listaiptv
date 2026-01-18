@@ -33,6 +33,8 @@ http://192.168.4.105:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8
 http://192.168.4.105:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3
 http://192.168.4.105:6878/ace/getstream?id=f4db7197aa4b9487014ba348fca3f78121ac2cae
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3 alt 1
+http://192.168.4.105:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 4 1080
 http://192.168.4.105:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 720
