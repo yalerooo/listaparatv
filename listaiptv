@@ -29,6 +29,8 @@ http://192.168.4.105:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8
 http://192.168.4.105:6878/ace/getstream?id=a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 alt1
 http://192.168.4.105:6878/ace/getstream?id=217e5f172d4c704c5eec739fed672a53521e8f98
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 alt2
+http://192.168.4.105:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",DAZN Baloncesto 2
 http://192.168.4.105:6878/ace/getstream?id=965b249321adbf3a1459f94c17f624022889fb8d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3
