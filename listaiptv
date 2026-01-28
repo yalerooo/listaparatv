@@ -117,7 +117,7 @@ http://192.168.4.105:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f0576284
 http://192.168.4.105:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080
-http://192.168.4.105:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+http://192.168.4.105:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 2
 http://192.168.4.105:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 3
