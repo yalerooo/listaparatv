@@ -1,371 +1,371 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/spain1.xml"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080 MultiAudio
-http://192.168.68.107:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+http://192.168.68.109:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080 MultiAudio alt 2
-http://192.168.68.107:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://192.168.68.109:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 1080 MultiAudio alt 3
-http://192.168.68.107:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
+http://192.168.68.109:6878/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 720p
-http://192.168.68.107:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+http://192.168.68.109:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 720p alt 2
-http://192.168.68.107:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
+http://192.168.68.109:6878/ace/getstream?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA.es",DAZN Liga 720p alt 3
-http://192.168.68.107:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+http://192.168.68.109:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 1080 MultiAudio
-http://192.168.68.107:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
+http://192.168.68.109:6878/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 1080 MultiAudio alt 2
-http://192.168.68.107:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+http://192.168.68.109:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 720p
-http://192.168.68.107:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
+http://192.168.68.109:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 720p alt2
-http://192.168.68.107:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+http://192.168.68.109:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1
-http://192.168.68.107:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82
+http://192.168.68.109:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 alt1
-http://192.168.68.107:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
+http://192.168.68.109:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 720p
-http://192.168.68.107:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
+http://192.168.68.109:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 720p alt 1
-http://192.168.68.107:6878/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
+http://192.168.68.109:6878/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",DAZN Baloncesto 2
-http://192.168.68.107:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
+http://192.168.68.109:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",DAZN Baloncesto 2 720p
-http://192.168.68.107:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
+http://192.168.68.109:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3
-http://192.168.68.107:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
+http://192.168.68.109:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3 alt 1
-http://192.168.68.107:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
+http://192.168.68.109:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080
-http://192.168.68.107:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+http://192.168.68.109:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+http://192.168.68.109:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://192.168.68.109:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 4
-http://192.168.68.107:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+http://192.168.68.109:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 720p
-http://192.168.68.107:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+http://192.168.68.109:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 720p alt2
-http://192.168.68.107:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+http://192.168.68.109:6878/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 720p alt3
-http://192.168.68.107:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+http://192.168.68.109:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV 2.es",M. Liga 2 1080
-http://192.168.68.107:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
+http://192.168.68.109:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV 2.es",M. Liga 2 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=b45cfe568e106a7df65c950805d6f123c989ce84
+http://192.168.68.109:6878/ace/getstream?id=b45cfe568e106a7df65c950805d6f123c989ce84
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV 2.es",M. Liga 2 720p
-http://192.168.68.107:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+http://192.168.68.109:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV 3.es",M. Liga 3 1080
-http://192.168.68.107:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
+http://192.168.68.109:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV 4.es",M. Liga 4 1080
-http://192.168.68.107:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602
+http://192.168.68.109:6878/ace/getstream?id=2a6b1fd8a24b23747db1ea534a51457708523602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV 4.es",M. Liga 4 720p
-http://192.168.68.107:6878/ace/getstream?id=1bcee22d5476f2eae9dc2cb24e3685152cf285cb
+http://192.168.68.109:6878/ace/getstream?id=1bcee22d5476f2eae9dc2cb24e3685152cf285cb
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",# VAMOS 1080
-http://192.168.68.107:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
+http://192.168.68.109:6878/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 1080 alt2
-http://192.168.68.107:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+http://192.168.68.109:6878/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 720p
-http://192.168.68.107:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
+http://192.168.68.109:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos.es",#VAMOS 720p alt 2
-http://192.168.68.107:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+http://192.168.68.109:6878/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos 2.e",#VAMOS 2 1080p
-http://192.168.68.107:6878/ace/getstream?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
+http://192.168.68.109:6878/ace/getstream?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos 2.e",#VAMOS 2 720p
-http://192.168.68.107:6878/ace/getstream?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
+http://192.168.68.109:6878/ace/getstream?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos 3.es",#VAMOS 3 1080p
-http://192.168.68.107:6878/ace/getstream?id=a9299052e9a16e5e2924e1fdd00b877c374f9e96
+http://192.168.68.109:6878/ace/getstream?id=a9299052e9a16e5e2924e1fdd00b877c374f9e96
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos 3.es",#VAMOS 3 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
+http://192.168.68.109:6878/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos 3.es",#VAMOS 3 1080p alt 3
-http://192.168.68.107:6878/ace/getstream?id=b46a524780cf0ac5e533491fe79389d6198acf2c
+http://192.168.68.109:6878/ace/getstream?id=b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Movistar" tvg-id="M+ Vamos 3.es",#VAMOS 3 720p
-http://192.168.68.107:6878/ace/getstream?id=837883625d40e1eb5566eefaf74811046491f53a
+http://192.168.68.109:6878/ace/getstream?id=837883625d40e1eb5566eefaf74811046491f53a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="LALIGA TV HYPERMOTION.es",HYPERMOTION 1080p
-http://192.168.68.107:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+http://192.168.68.109:6878/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="LALIGA TV HYPERMOTION.es",HYPERMOTION 720p
-http://192.168.68.107:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+http://192.168.68.109:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="LALIGA TV HYPERMOTION 2.es",HYPERMOTION 2 1080p
-http://192.168.68.107:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
+http://192.168.68.109:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="LALIGA TV HYPERMOTION 2.es",HYPERMOTION 2 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
+http://192.168.68.109:6878/ace/getstream?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="LALIGA TV HYPERMOTION 2.es",HYPERMOTION 2 720p
-http://192.168.68.107:6878/ace/getstream?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
+http://192.168.68.109:6878/ace/getstream?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Smartbank" tvg-id="LALIGA TV HYPERMOTION 3.es",HYPERMOTION 3 1080p
-http://192.168.68.107:6878/ace/getstream?id=1fdb405a6942da0941266f24cdd1c71b11552f1f
+http://192.168.68.109:6878/ace/getstream?id=1fdb405a6942da0941266f24cdd1c71b11552f1f
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080
-http://192.168.68.107:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+http://192.168.68.109:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
+http://192.168.68.109:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+http://192.168.68.109:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 1080 alt 4
-http://192.168.68.107:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+http://192.168.68.109:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 1080
-http://192.168.68.107:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632
+http://192.168.68.109:6878/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
+http://192.168.68.109:6878/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+http://192.168.68.109:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 720
-http://192.168.68.107:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6
+http://192.168.68.109:6878/ace/getstream?id=47188da7d2e4beaee82cff174f223fdd23f78fa6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 2.es",CAMPEONES 2 720 alt 2
-http://192.168.68.107:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
+http://192.168.68.109:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 1080
-http://192.168.68.107:6878/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9
+http://192.168.68.109:6878/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
+http://192.168.68.109:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
+http://192.168.68.109:6878/ace/getstream?id=85a8e0675bc27ddfd403b8f72953c606d07a8de8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 720
-http://192.168.68.107:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+http://192.168.68.109:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 3.es",CAMPEONES 3 720 alt 2
-http://192.168.68.107:6878/ace/getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
+http://192.168.68.109:6878/ace/getstream?id=5b7f54b12e0f96ceba1299f44eac4b0f97403e4e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 4.es",CAMPEONES 4 1080
-http://192.168.68.107:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1
+http://192.168.68.109:6878/ace/getstream?id=91ac4585368992720ec17ffa5b4389368c6dcac1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 4.es",CAMPEONES 4 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547
+http://192.168.68.109:6878/ace/getstream?id=64f01629d4a19e70efd9e6778c397282ba087547
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 4.es",CAMPEONES 4 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
+http://192.168.68.109:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones 4.es",CAMPEONES 4 720
-http://192.168.68.107:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2
+http://192.168.68.109:6878/ace/getstream?id=5ba9368d80d2f87ac1c6d71df4e7e6e26e6911f2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 720
-http://192.168.68.107:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
+http://192.168.68.109:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 720 alt2
-http://192.168.68.107:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+http://192.168.68.109:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Champions" tvg-id="M+ Liga de Campeones.es",CAMPEONES 720 alt2
-http://192.168.68.107:6878/ace/getstream?id=43249349740032bee068b5bbff7b078f642812db
+http://192.168.68.109:6878/ace/getstream?id=43249349740032bee068b5bbff7b078f642812db
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN1.es",Dazn 1 1080p
-http://192.168.68.107:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
+http://192.168.68.109:6878/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN1.es", Dazn 1 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
+http://192.168.68.109:6878/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN1.es", Dazn 1 1080p alt 3
-http://192.168.68.107:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+http://192.168.68.109:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN1.es", Dazn 1 720p
-http://192.168.68.107:6878/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
+http://192.168.68.109:6878/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN2.es",Dazn 2 1080p
-http://192.168.68.107:6878/ace/getstream?id=01ce89b571b6c89bc19ccaafc913d483ac65c61d
+http://192.168.68.109:6878/ace/getstream?id=01ce89b571b6c89bc19ccaafc913d483ac65c61d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN2.es",Dazn 2 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=d60b8c154828cb990b7bb1570764b215bd979e74
+http://192.168.68.109:6878/ace/getstream?id=d60b8c154828cb990b7bb1570764b215bd979e74
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN3.es",Dazn 3 1080p
-http://192.168.68.107:6878/ace/getstream?id=908bc5e7ae52afc06e40793b6db749dba11a1780
+http://192.168.68.109:6878/ace/getstream?id=908bc5e7ae52afc06e40793b6db749dba11a1780
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN3.es",Dazn 3 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=e1ccce973c71547a8acda770885cb1c30a9cf3e1
+http://192.168.68.109:6878/ace/getstream?id=e1ccce973c71547a8acda770885cb1c30a9cf3e1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN4.es",Dazn 4 1080p
-http://192.168.68.107:6878/ace/getstream?id=d669c6cee7173a1c8994075f7050a6526655b1dc
+http://192.168.68.109:6878/ace/getstream?id=d669c6cee7173a1c8994075f7050a6526655b1dc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="DAZN" tvg-id="DAZN4.es",Dazn 4 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=9ced16b2055c99bf89c26e678e315e1b01d3734c
+http://192.168.68.109:6878/ace/getstream?id=9ced16b2055c99bf89c26e678e315e1b01d3734c
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080
-http://192.168.68.107:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+http://192.168.68.109:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+http://192.168.68.109:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+http://192.168.68.109:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 4
-http://192.168.68.107:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+http://192.168.68.109:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 5
-http://192.168.68.107:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+http://192.168.68.109:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 6
-http://192.168.68.107:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+http://192.168.68.109:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 7
-http://192.168.68.107:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
+http://192.168.68.109:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 8
-http://192.168.68.107:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+http://192.168.68.109:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 9
-http://192.168.68.107:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
+http://192.168.68.109:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 1080 alt 10
-http://192.168.68.107:6878/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
+http://192.168.68.109:6878/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 4K
-http://192.168.68.107:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+http://192.168.68.109:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 720
-http://192.168.68.107:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+http://192.168.68.109:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN" tvg-id="DAZN F1.es",DAZN F1 720 alt 2
-http://192.168.68.107:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
+http://192.168.68.109:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-logo="" group-title="DAZN" tvg-id="ELEVEN DAZN 5", ELEVEN DAZN 5
-http://192.168.68.107:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+http://192.168.68.109:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-logo="" group-title="DAZN" tvg-id="ELEVEN DAZN 6", ELEVEN DAZN 6
-http://192.168.68.107:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+http://192.168.68.109:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes.es",Deportes 1080p
-http://192.168.68.107:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
+http://192.168.68.109:6878/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes.es",Deportes 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
+http://192.168.68.109:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes.es",Deportes 720p
-http://192.168.68.107:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281
+http://192.168.68.109:6878/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes.es",Deportes 720p alt 2
-http://192.168.68.107:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+http://192.168.68.109:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2.es",Deportes 2 1080p
-http://192.168.68.107:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
+http://192.168.68.109:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2.es",Deportes 2 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+http://192.168.68.109:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2.es",Deportes 2 1080p alt 3
-http://192.168.68.107:6878/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
+http://192.168.68.109:6878/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2.es",Deportes 2 720p
-http://192.168.68.107:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
+http://192.168.68.109:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2.es",Deportes 2 720p alt 2
-http://192.168.68.107:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
+http://192.168.68.109:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 3.es",Deportes 3 1080p
-http://192.168.68.107:6878/ace/getstream?id=f4d9011721fad5098febbe4d7c078a582e176a01
+http://192.168.68.109:6878/ace/getstream?id=f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 3.es",Deportes 3 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
+http://192.168.68.109:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 3.es",Deportes 3 720p
-http://192.168.68.107:6878/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+http://192.168.68.109:6878/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 3.es",Deportes 3 720p alt 2
-http://192.168.68.107:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+http://192.168.68.109:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 4.es",Deportes 4 1080p
-http://192.168.68.107:6878/ace/getstream?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+http://192.168.68.109:6878/ace/getstream?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 4.es",Deportes 4 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f
+http://192.168.68.109:6878/ace/getstream?id=590a1f4546e3a0d5d419b62b8177b44d6ce0339f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 4.es",Deportes 4 720p
-http://192.168.68.107:6878/ace/getstream?id=2a5d90651e212106434edea5bfbba1a843b7b97c
+http://192.168.68.109:6878/ace/getstream?id=2a5d90651e212106434edea5bfbba1a843b7b97c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 5.es",Deportes 5 1080p
-http://192.168.68.107:6878/ace/getstream?id=646a1ed4ece843de1979f7888cbdd4d937506a28
+http://192.168.68.109:6878/ace/getstream?id=646a1ed4ece843de1979f7888cbdd4d937506a28
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 5.es",Deportes 5 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
+http://192.168.68.109:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 6.es",Deportes 6 1080p
-http://192.168.68.107:6878/ace/getstream?id=e6cd9205e26b3b6680f607030c702e911272524a
+http://192.168.68.109:6878/ace/getstream?id=e6cd9205e26b3b6680f607030c702e911272524a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 7.es",Deportes 7 1080p
-http://192.168.68.107:6878/ace/getstream?id=2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda
+http://192.168.68.109:6878/ace/getstream?id=2d549bbcd898b09c4b736e6e3e83e8e8c19fcbda
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 8.es",Deportes 8 1080p
-http://192.168.68.107:6878/ace/getstream?id=abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a
+http://192.168.68.109:6878/ace/getstream?id=abe6834b6e2509d2ff5b5b04f7ecb1db6e81083a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Deportes 8.es",Deportes 8 720p
-http://192.168.68.107:6878/ace/getstream?id=f5c100695175ba52099664ddb4c5fc4ae0ebe99a
+http://192.168.68.109:6878/ace/getstream?id=f5c100695175ba52099664ddb4c5fc4ae0ebe99a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="Deportes" tvg-id="ESPN LAT DEPORT",ESPN LAT DEPORT
-http://192.168.68.107:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
+http://192.168.68.109:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Motors_TV_logo.svg/2560px-Motors_TV_logo.svg.png" group-title="Deportes" tvg-id="MOTORS TV",MOTORS TV
-http://192.168.68.107:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
+http://192.168.68.109:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-logo="" group-title="Deportes" tvg-id="MOTORVISIÓN", MOTORVISIÓN
-http://192.168.68.107:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
+http://192.168.68.109:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="Movistar Golf.es",Movistar + Golf 1080p
-http://192.168.68.107:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530
+http://192.168.68.109:6878/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f7530
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="Movistar Golf.es",Movistar + Golf 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
+http://192.168.68.109:6878/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="Movistar Golf.es",Movistar + Golf 720p
-http://192.168.68.107:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6
+http://192.168.68.109:6878/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="Movistar Golf.es",Movistar + Golf 2 1080
-http://192.168.68.107:6878/ace/getstream?id=ac321484243571f59e077f2a2521e648dc0c7b03
+http://192.168.68.109:6878/ace/getstream?id=ac321484243571f59e077f2a2521e648dc0c7b03
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="Movistar Deportes 1.es",TELEDEPORTE
-http://192.168.68.107:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+http://192.168.68.109:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/langes-1100px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="Movistar Deportes 1.es",TELEDEPORTE alt 2
-http://192.168.68.107:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
+http://192.168.68.109:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 1080
-http://192.168.68.107:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
+http://192.168.68.109:6878/ace/getstream?id=0db68ab752b50e6bb257eef22d102c1d29cd92ea
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
+http://192.168.68.109:6878/ace/getstream?id=48a589dbeab3544662fafd79888aada7d834cfe9
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 720p
-http://192.168.68.107:6878/ace/getstream?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
+http://192.168.68.109:6878/ace/getstream?id=a7b42f9d65636d1b1d9316d3e91ebe12b192658c
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 2 1080
-http://192.168.68.107:6878/ace/getstream?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
+http://192.168.68.109:6878/ace/getstream?id=24f940fef7e270b6b3ae5d9dc713a80c8345cfba
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 2 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
+http://192.168.68.109:6878/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 2 1080 alt 3
-http://192.168.68.107:6878/ace/getstream?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
+http://192.168.68.109:6878/ace/getstream?id=d01d255aaaf2fb91c0a8c98a826b4bd4769d81c1
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/4d453e6300006400050e83f7/0x0.png" group-title="Eurosport" tvg-id="Eurosport 1.es",Eurosport 2 720
-http://192.168.68.107:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+http://192.168.68.109:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/1200px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="General" tvg-id="1ª FEDERACIÓN 1080",1ª FEDERACIÓN 1080
-http://192.168.68.107:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
+http://192.168.68.109:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_Spanish_Football_Federation_logo.svg/1200px-Royal_Spanish_Football_Federation_logo.svg.png" group-title="General" tvg-id="1ª FEDERACIÓN 1080",1ª FEDERACIÓN 1080 alt 2
-http://192.168.68.107:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
+http://192.168.68.109:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antena_3_2025_%28sin_wordmark%29.svg/1200px-Antena_3_2025_%28sin_wordmark%29.svg.png" group-title="General" tvg-id="Antena 3.es",ANTENA 3
-http://192.168.68.107:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
+http://192.168.68.109:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-logo="" group-title="General" tvg-id="ARAGÓN TV", ARAGÓN TV
-http://192.168.68.107:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
+http://192.168.68.109:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 1",BEIN SPORTS 1
-http://192.168.68.107:6878/ace/getstream?id=f0951d40eb84162014752c054ea7a1370d2169eb
+http://192.168.68.109:6878/ace/getstream?id=f0951d40eb84162014752c054ea7a1370d2169eb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 1",BEIN SPORTS 1 alt 2
-http://192.168.68.107:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+http://192.168.68.109:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 2",BEIN SPORTS 2
-http://192.168.68.107:6878/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454
+http://192.168.68.109:6878/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 2",BEIN SPORTS 2 alt 2
-http://192.168.68.107:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+http://192.168.68.109:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 3",BEIN SPORTS 3
-http://192.168.68.107:6878/ace/getstream?id=ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
+http://192.168.68.109:6878/ace/getstream?id=ea6dd2fbd792fe4fb5d372f5d8b84d03792e6e7a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 3",BEIN SPORTS 3 alt 2
-http://192.168.68.107:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+http://192.168.68.109:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS 4 TURQUIA",BEIN SPORTS 4 TURQUIA
-http://192.168.68.107:6878/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
+http://192.168.68.109:6878/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="General" tvg-id="BEIN SPORTS Ñ",BEIN SPORTS Ñ
-http://192.168.68.107:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
+http://192.168.68.109:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/2560px-BT_Sport_logo_2019.svg.png" group-title="General" tvg-id="BT SPORT 1 UK",BT SPORT 1 UK
-http://192.168.68.107:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+http://192.168.68.109:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/2560px-BT_Sport_logo_2019.svg.png" group-title="General" tvg-id="BT SPORT 1 UK",BT SPORT 1 UK alt 2
-http://192.168.68.107:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+http://192.168.68.109:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/2560px-BT_Sport_logo_2019.svg.png" group-title="General" tvg-id="BT SPORT 2 UK",BT SPORT 2 UK
-http://192.168.68.107:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+http://192.168.68.109:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/2560px-BT_Sport_logo_2019.svg.png" group-title="General" tvg-id="BT SPORT 3 UK",BT SPORT 3 UK
-http://192.168.68.107:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+http://192.168.68.109:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/cadenas/logo_canal-cocina.svg" group-title="General" tvg-id="Canal Cocina.es",CANAL COCINA
-http://192.168.68.107:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
+http://192.168.68.109:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7M5NErJkcuT2_6aSHYMKYQ9jm_IwAGBCcw&s" group-title="General" tvg-id="Cuatro.es",CUATRO
-http://192.168.68.107:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
+http://192.168.68.109:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7M5NErJkcuT2_6aSHYMKYQ9jm_IwAGBCcw&s" group-title="General" tvg-id="Cuatro.es",CUATRO alt 2
-http://192.168.68.107:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
+http://192.168.68.109:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/2/discovery-channel-logo-png_seeklogo-268048.png" group-title="General" tvg-id="Discovery Channel.es",DISCOVERY CHANNEL
-http://192.168.68.107:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
+http://192.168.68.109:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/26/2/discovery-channel-logo-png_seeklogo-268048.png" group-title="General" tvg-id="Discovery Channel.es",DISCOVERY CHANNEL alt 2
-http://192.168.68.107:6878/ace/getstream?id=c2858a94d2045e5dbb14e99323e90afe4e872266
+http://192.168.68.109:6878/ace/getstream?id=c2858a94d2045e5dbb14e99323e90afe4e872266
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="General" tvg-id="ESPN ARGENTINA",ESPN ARGENTINA
-http://192.168.68.107:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
+http://192.168.68.109:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png" group-title="General" tvg-id="ESPN PREMIUM",ESPN PREMIUM
-http://192.168.68.107:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+http://192.168.68.109:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="General" tvg-id="Esport 3.es",ESPORTS 3
-http://192.168.68.107:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
+http://192.168.68.109:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="General" tvg-id="FOX SPORTS",FOX SPORTS
-http://192.168.68.107:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+http://192.168.68.109:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 tvg-logo="" group-title="General" tvg-id="FSN", FSN
-http://192.168.68.107:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+http://192.168.68.109:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="General" tvg-id="GOL PLAY.es",GOLPLAY
-http://192.168.68.107:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+http://192.168.68.109:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="General" tvg-id="GOL PLAY.es",GOLPLAY alt 2
-http://192.168.68.107:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
+http://192.168.68.109:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="General" tvg-id="GOL PLAY.es",GOLPLAY alt 3
-http://192.168.68.107:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
+http://192.168.68.109:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png" group-title="General" tvg-id="laSexta.es",LA SEXTA
-http://192.168.68.107:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
+http://192.168.68.109:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="General" tvg-id="La 1.es",LA1
-http://192.168.68.107:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
+http://192.168.68.109:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" group-title="General" tvg-id="Movistar Plus+.es",Movistar Plus+ 1080p
-http://192.168.68.107:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+http://192.168.68.109:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" group-title="General" tvg-id="Movistar Plus+.es",Movistar Plus+ 1080p alt 2
-http://192.168.68.107:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
+http://192.168.68.109:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" group-title="General" tvg-id="Movistar Plus+.es",Movistar Plus+ 720p
-http://192.168.68.107:6878/ace/getstream?id=d23497596720b47b096ec0f850d6d26a19d1a3369
+http://192.168.68.109:6878/ace/getstream?id=d23497596720b47b096ec0f850d6d26a19d1a3369
