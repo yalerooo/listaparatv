@@ -41,16 +41,10 @@ http://192.168.68.109:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080
 http://192.168.68.109:6878/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 2
-http://192.168.68.109:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 3
-http://192.168.68.109:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 4
-http://192.168.68.109:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 5
 http://192.168.68.109:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 3
 http://192.168.68.109:6878/ace/getstream?id=a64e02a6d914f098cbe1b724ff4f7aef83419a4a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080 alt 4
 http://192.168.68.109:6878/ace/getstream?id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 720p
 http://192.168.68.109:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
