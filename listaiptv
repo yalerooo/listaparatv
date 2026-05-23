@@ -19,23 +19,56 @@ http://192.168.68.106:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096d
 http://192.168.68.106:6878/ace/getstream?id=a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 2 720p alt2
 http://192.168.68.106:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 3 1080p
+http://192.168.68.106:6878/ace/getstream?id=b99dfbd6829e92639ccdff49576949456915f60a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 4 1080p
+http://192.168.68.106:6878/ace/getstream?id=9ce7e5f61ee6125c685de30b998b7aa9a0d9accd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 4 720p
+http://192.168.68.106:6878/ace/getstream?id=fd89bfb7b1c6005dc874ef6c0771c09372461539
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="Liga" tvg-id="DAZN LALIGA 2.es",DAZN Liga 5 1080p
+http://192.168.68.106:6878/ace/getstream?id=c22b1093b5db093efe6a20a51ce8c577316c302e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1
-http://192.168.68.106:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82
+http://192.168.68.106:6878/ace/getstream?id=6fbd92735502bdebbf1ea58f4298e49759c0cf07
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 alt1
-http://192.168.68.106:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
+http://192.168.68.106:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 720p
-http://192.168.68.106:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN Baloncesto 1 720p alt 1
-http://192.168.68.106:6878/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
+http://192.168.68.106:6878/ace/getstream?id=4005aabe21ba9c6d748845db91e4f48d99f58639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",DAZN Baloncesto 2
-http://192.168.68.106:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
+http://192.168.68.106:6878/ace/getstream?id=853129258a5cb51f27829eddb934e58b45978344
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",DAZN Baloncesto 2 720p
-http://192.168.68.106:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
+http://192.168.68.106:6878/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3
+http://192.168.68.106:6878/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472afea
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483727762904989698/VkwAG6mm_400x400.png" group-title="Baloncesto" tvg-id="M+ Baloncesto.es",M+ Baloncesto 1080p
+http://192.168.68.106:6878/ace/getstream?id=34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483727762904989698/VkwAG6mm_400x400.png" group-title="Baloncesto" tvg-id="M+ Baloncesto.es",M+ Baloncesto 1080p alt 2
+http://192.168.68.106:6878/ace/getstream?id=e3816fbc661fbc8b2b656aee9483d0a55a1608b6
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483727762904989698/VkwAG6mm_400x400.png" group-title="Baloncesto" tvg-id="M+ Baloncesto 2.es",M+ Baloncesto 1080p 2
+http://192.168.68.106:6878/ace/getstream?id=88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483727762904989698/VkwAG6mm_400x400.png" group-title="Baloncesto" tvg-id="M+ Baloncesto 2.es",M+ Baloncesto 1080p 2 alt 2
+http://192.168.68.106:6878/ace/getstream?id=c8c33b2673efe7f386790c5966643820578f3535
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",ACB EVENTO 01 720p
+http://192.168.68.106:6878/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",ACB EVENTO 01 720p
+http://192.168.68.106:6878/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",ACB EVENTO 01
+http://192.168.68.106:6878/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",ACB EVENTO 01
+http://192.168.68.106:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",ACB EVENTO 02 720p
+http://192.168.68.106:6878/ace/getstream?id=d7e6b6bb1666740a21099fe6ceb0178a14f58e0c
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto 2.es",ACB EVENTO 02
+http://192.168.68.106:6878/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",ACB EVENTO 03 720p
 http://192.168.68.106:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",DAZN Baloncesto 3 alt 1
-http://192.168.68.106:6878/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto 3.es",ACB EVENTO 03 720p
+http://192.168.68.106:6878/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d00d9
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/acb_logo_despues.jpg" group-title="Baloncesto" tvg-id="DAZN Baloncesto.es",DAZN ACB 1
+http://192.168.68.106:6878/ace/getstream?id=7af3d01607359fd1777de3d34d8d505ee5591b82
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Liga" tvg-id="M+ LALIGA TV.es",M. Liga 1080
