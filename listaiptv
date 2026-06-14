@@ -439,3 +439,21 @@ http://192.168.68.110:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2
 http://192.168.68.110:6878/ace/getstream?id=ed74406ccdb3c21941b919db6bffca7f1de015bb
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" group-title="General" tvg-id="Movistar Plus+.es",Movistar Plus+ 720p
 http://192.168.68.110:6878/ace/getstream?id=d23497596720b47b096ec0f850d6d26a19d1a3369
+
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL.es",DAZN MUNDIAL
+http://192.168.68.110:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL.es",DAZN MUNDIAL alt 1
+http://192.168.68.110:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 2.es",DAZN MUNDIAL 2
+http://192.168.68.110:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 2.es",DAZN MUNDIAL 2 alt 1
+http://192.168.68.110:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 3.es",DAZN MUNDIAL 3
+http://192.168.68.110:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 3.es",DAZN MUNDIAL 3 alt 1
+http://192.168.68.110:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 4.es",DAZN MUNDIAL 4
+http://192.168.68.110:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 4.es",DAZN MUNDIAL 4 alt 1
+http://192.168.68.110:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
+
