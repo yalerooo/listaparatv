@@ -432,6 +432,10 @@ http://192.168.68.110:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d
 http://192.168.68.110:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="General" tvg-id="La 1.es",LA1
 http://192.168.68.110:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="General" tvg-id="La 1.es",LA1 4k
+http://192.168.68.110:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_La_1.svg" group-title="General" tvg-id="La 1.es",LA1 4k alt 1
+http://192.168.68.110:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DT_XduxIQ0RJPlkUcTbrgd06585D4WH5XJ_ZWlHlThZJiFLVVQjl3GdQGngCAAXTQetys_ef6Q=s900-c-k-c0x00ffffff-no-rj" group-title="General" tvg-id="Movistar Plus+.es",Movistar Plus+ 1080p
 http://192.168.68.110:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
