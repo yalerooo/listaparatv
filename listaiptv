@@ -457,3 +457,6 @@ http://192.168.68.110:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/68f550992570ca0322737dc2/69f4a666ff876f5a52a1b7ab_fifa-world-cup-2026-official-logo-footylogos.png" group-title="Mundial" tvg-id="DAZN MUNDIAL 4.es",DAZN MUNDIAL 4 alt 1
 http://192.168.68.110:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="Mundial" tvg-id="M+ Fanzone.es",M+ Fanzone
+http://192.168.68.110:6878/ace/getstream?id=5b9f3a4154df90799e86dace350ea152727b1edd
+
